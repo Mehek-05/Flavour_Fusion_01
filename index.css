@@ -1,0 +1,59 @@
+.bg-clr1 {
+  background-color: #891652;
+}
+
+body,
+.bg-clr2 {
+  background-color: #D63484;
+}
+
+.hover1:hover {
+  background-color: #FF9BD2;
+  font-size: x-large;
+  border-radius: 10px;
+}
+
+.bg-clr3 {
+  background-color: #D63484 ;
+}
+
+.px-6 {
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+/* -------------flikity------------------------- */
+.carousel-cell {
+  /* width: 66%;
+  height: 400px;
+  margin-right: 10px;
+  border-radius: 5px; */
+
+  width: 66%;
+  height: 200px;
+  margin-right: 10px;
+  background: #8c8;
+  border-radius: 5px;
+  counter-increment: gallery-cell;
+}
+.carousel-cell video {
+  width: 100%;
+  height: 400px;
+}
+
+.carousel-cell1 {
+  width: 66%;
+  height: 600px;
+  margin-right: 10px;
+  border-radius: 5px;
+}
+.carousel-cell1 video {
+  width: 100%;
+  height: 600px;
+}
+.fnt1 {
+  font-family: "Courier New", Courier, monospace;
+}
+h1{
+  color: white;
+}
